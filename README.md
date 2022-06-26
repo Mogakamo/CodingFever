@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to CodingFever 👋</h1>
 <p>
   <a href="https://twitter.com/m_ogakadev" target="_blank">
-    <img alt="Twitter: m\_ogakadev" src="https://img.shields.io/twitter/follow/m\_ogakadev.svg?style=social" />
+    <img alt="Twitter: m_ogakadev" src="https://img.shields.io/twitter/follow/m_ogakadev.svg?style=social" />
   </a>
 </p>
 
