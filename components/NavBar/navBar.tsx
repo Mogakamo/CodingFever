@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+import { HiMenu } from "react-icons/hi";
 
 const NavBar = () => {
   return (
@@ -30,7 +31,9 @@ const NavBar = () => {
         </div>
       </div>
       {/* Menu Icon */}
-      <div></div>
+      <div className="md:hidden lg:hidden">
+        <HiMenu className="h-10 w-10" />
+      </div>
     </div>
   );
 };
