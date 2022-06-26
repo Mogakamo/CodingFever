@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> This is a project that will help programmers get to do pair programming in real-time and get to solve bugs while sipping some coffee
+> This is a project that will help programmers get to do pair programming in real-time and get to solve bugs while sipping some coffee ☕
 
 ## Install
 
