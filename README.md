@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to CodingFever 👋</h1>
 <p>
-  <a href="https://twitter.com/m\_ogakadev" target="_blank">
+  <a href="https://twitter.com/m_ogakadev" target="_blank">
     <img alt="Twitter: m\_ogakadev" src="https://img.shields.io/twitter/follow/m\_ogakadev.svg?style=social" />
   </a>
 </p>
 
-> This is a project that will help programmers get to do pair programming in real-time and get to solve bugs while sipping some coffee
+> This is a project that will help programmers get to do pair programming in real-time and get to solve bugs while sipping some coffee ☕
 
 ## Install
 
